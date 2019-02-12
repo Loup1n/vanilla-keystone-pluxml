@@ -335,7 +335,7 @@
 					<a class="maintitle" href="https://www.pluxml.org/" title="PluXml.org">PluXml.org</a> - Blog ou Cms à l'Xml ! © GNU General Public License
 				</p>
 				<p>
-					Généré par&nbsp;<a href="https://vanillaforums.com/fr/">Vanilla</a> et <a href="https://plucss.pluxml.org">PluCss</a>
+					Généré par&nbsp;<a href="https://vanillaforums.com/fr/">Vanilla</a> et <a href="https://plucss.pluxml.org">PluCSS</a>
 				</p>
 				<ul class="inline-list">
 					<li><a href="https://www.pluxml.org/feed/rss" title="Fil Rss des articles">Fil des articles</a></li>
