@@ -29,7 +29,6 @@
 
 	<link href="https://www.pluxml.org/assets/plucss-min.css" rel="stylesheet">
 	<link href="https://www.pluxml.org/assets/plx-common-min.css" rel="stylesheet">
-
 </head>
 
 {assign
@@ -83,7 +82,7 @@
           <div class="grid">
             <div class="col sml-12 med-3">
               <ul class="menu text-center">
-                <li class="logo"><a href="https://www.pluxml.org" title="PluXml"><img class="float-left" src="/themes/pluxml-org-vanillaforum/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
+                <li class="logo"><a href="https://www.pluxml.org" title="PluXml"><img class="float-left" src="/themes/keystone-pluxml/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
               </ul>
             </div>
             <div class="col sml-12 med-9 lrg-6">
