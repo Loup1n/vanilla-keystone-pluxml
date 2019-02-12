@@ -23,6 +23,10 @@ a.Header-logo  {
 .Hamburger input[type="submit"]:hover {
 	background-color: inherit;
 }
+.Frame {
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 6rem;
+}
 .richEditor [type="button"],
 .richEditor [type="reset"],
 .richEditor [type="submit"], button {
@@ -49,4 +53,21 @@ a.Header-logo  {
 }
 .richEditorFlyout {
 	width: 290px !important;
+}
+.footer {
+    background: #f7f7f7;
+    color: #666;
+    padding: 6rem 0;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.footer section {
+    padding: 2rem 0rem;
+}
+.footer a, .footer li.active a {
+    color: #666;
+    font-size: inherit;
+}
+.footer ul {
+	margin: 12px 0px;
 }
