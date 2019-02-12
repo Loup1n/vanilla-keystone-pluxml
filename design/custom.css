@@ -1,0 +1,51 @@
+.plx-nav a {
+	font-size: 1.5rem !important;
+	line-height: 1rem !important;
+	font-family: sans-serif !important;
+}
+#MainHeader {
+	background-color: #ECBB24;
+}
+a.Header-logo  {
+	color: #fff !important;
+	font-size: 1.6rem !important;
+}
+.Header .MeButton:active,
+.Header .MeButton:focus,
+.Header .MeButton:hover,
+.Header .ToggleFlyout.Open .MeButton {
+	background-color: #ECBB24 !important;
+}
+.Hamburger button:hover,
+.Hamburger input[type="button"]:hover,
+.Hamburger input[type="reset"]:hover,
+.Hamburger input[type="submit"]:hover {
+	background-color: inherit;
+}
+.richEditor [type="button"],
+.richEditor [type="reset"],
+.richEditor [type="submit"], button {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.richEditor button,
+.richEditor input[type="button"],
+.richEditor input[type="reset"],
+.richEditor input[type="submit"] {
+	color: inherit !important;
+}
+.richEditor button:hover,
+.richEditor input[type="button"]:hover,
+.richEditor input[type="reset"]:hover,
+.richEditor input[type="submit"]:hover {
+	background-color: inherit !important;
+}
+.H {
+	margin-bottom: 10px !important;
+}
+.emoji {
+    height: 20px;
+}
+.richEditorFlyout {
+	width: 290px !important;
+}
