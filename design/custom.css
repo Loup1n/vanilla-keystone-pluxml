@@ -15,7 +15,7 @@ a.Header-logo  {
 .Header .MeButton:focus,
 .Header .MeButton:hover,
 .Header .ToggleFlyout.Open .MeButton {
-	background-color: #ECBB24 !important;
+	background-color: #262626 !important;
 }
 .Hamburger button:hover,
 .Hamburger input[type="button"]:hover,
