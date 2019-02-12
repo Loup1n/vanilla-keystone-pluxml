@@ -5,22 +5,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
-    <link rel="apple-touch-icon" sizes="57x57" href="/themes/keystone-pluxml/img/favicon/apple-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="/themes/keystone-pluxml/img/favicon/apple-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/themes/keystone-pluxml/img/favicon/apple-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="/themes/keystone-pluxml/img/favicon/apple-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/themes/keystone-pluxml/img/favicon/apple-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/themes/keystone-pluxml/img/favicon/apple-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/themes/keystone-pluxml/img/favicon/apple-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/themes/keystone-pluxml/img/favicon/apple-icon-152x152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="/themes/keystone-pluxml/img/favicon/apple-icon-180x180.png">
-	<link rel="icon" type="image/png" sizes="192x192"  href="/themes/keystone-pluxml/img/favicon/android-icon-192x192.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/themes/keystone-pluxml/img/favicon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="/themes/keystone-pluxml/img/favicon/favicon-96x96.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/themes/keystone-pluxml/img/favicon/favicon-16x16.png">
-	<link rel="manifest" href="/themes/keystone-pluxml/img/favicon/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/themes/vanilla-keystone-pluxml/img/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/themes/vanilla-keystone-pluxml/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/themes/vanilla-keystone-pluxml/img/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/themes/vanilla-keystone-pluxml/img/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/themes/vanilla-keystone-pluxml/img/favicon/manifest.json">
 	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="/themes/keystone-pluxml/img/favicon/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="/themes/vanilla-keystone-pluxml/img/favicon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	
     {asset name="Head"}
@@ -82,7 +82,7 @@
           <div class="grid">
             <div class="col sml-12 med-3">
               <ul class="menu text-center">
-                <li class="logo"><a href="https://www.pluxml.org" title="PluXml"><img class="float-left" src="/themes/keystone-pluxml/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
+                <li class="logo"><a href="https://www.pluxml.org" title="PluXml"><img class="float-left" src="/themes/vanilla-keystone-pluxml/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
               </ul>
             </div>
             <div class="col sml-12 med-9 lrg-6">
@@ -294,7 +294,7 @@
 			<section>
 				<div class="grid">
 					<div class="col sml-12 med-3 text-center">
-						<img alt="Logo PluXml" src="/themes/keystone-pluxml/img//plx-logo-bleu.png">
+						<img alt="Logo PluXml" src="/themes/vanilla-keystone-pluxml/img//plx-logo-bleu.png">
 					</div>
 					<div class="col sml-6 med-2">
 						<strong>A propos de PluXml</strong>
