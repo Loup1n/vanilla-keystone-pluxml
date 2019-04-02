@@ -71,6 +71,10 @@ a.Header-logo  {
     text-align: center;
     font-size: 1.2rem;
 }
+.userContent pre, .UserContent pre, .userContent pre.codeBlock, .UserContent pre.codeBlock {
+	background-color: #fdfdfd  !important;
+	border: 1px solid #e8e8e8  !important;
+}
 .footer section {
     padding: 2rem 0rem;
 }
