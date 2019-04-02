@@ -56,10 +56,10 @@ a.Header-logo  {
 	width: 290px !important;
 }
 .MessageList .ItemComment .Item-Header, .MessageList .ItemDiscussion .Item-Header {
-	background-color: #f8f8f8;
+	background-color: #f8f8f8 !important;
 }
 .MessageList .ItemComment .Item-Header .PhotoWrap, .MessageList .ItemDiscussion .Item-Header .PhotoWrap {
-	margin-left: 5px;
+	margin-left: 5px !important;
 }
 .Options .Bookmark, .Options .SpFlyoutHandle {
 	margin-right: 5px;
