@@ -61,6 +61,7 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 }
 .DataList .Item, .MessageList .Item {
 	background-color: #f7f7f7 !important;
+	margin-bottom: 10px;
 }
 .DataList .IndexPhoto, .MessageList .IndexPhoto {
 	margin-left: 10px !important;
