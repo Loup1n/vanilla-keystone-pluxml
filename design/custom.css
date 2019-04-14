@@ -58,13 +58,15 @@ a.Header-logo  {
 }
 .DataList .Item, .MessageList .Item {
 	background-color: #f7f7f7 !important;
-	padding: 14px 10px !important;
+}
+.DataList .IndexPhoto, .MessageList .IndexPhoto {
+	margin-left: 10px !important;
+}
+.DataList.Discussions .ItemDiscussion-withPhoto.ItemDiscussion-withPhoto .Discussion.ItemContent {
+	padding-left: 66px !important;
 }
 .MessageList .ItemComment.ItemComment, .MessageList .ItemDiscussion.ItemDiscussion {
 	margin-bottom: 10px
-}
-.Activities .ItemComment .Options, .Conversations .ItemComment .Options, .MessageList .ItemComment .Options {
-	margin-top: 0px !important;
 }
 .DataList .AuthorWrap, .DataList .Meta, .MessageList .AuthorWrap, .MessageList .Meta {
 	margin-top: 0px;
@@ -81,7 +83,6 @@ a.Header-logo  {
 .MessageList .ItemComment .Item-Header, .MessageList .ItemDiscussion .Item-Header {
 	background-color: #f7f7f7 !important;
 	border-bottom: 1px solid #ddd;
-	padding: 0px !important;
 }
 .MessageList .ItemComment .Item-Header .PhotoWrap, .MessageList .ItemDiscussion .Item-Header .PhotoWrap {
 	margin-left: 5px !important;
