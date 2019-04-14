@@ -58,6 +58,11 @@ a.Header-logo  {
 .DataList .AuthorWrap, .DataList .Meta, .MessageList .AuthorWrap, .MessageList .Meta {
 	margin-top: 0px;
 }
+@media screen and (max-width:768px) {
+	.DataList .AuthorWrap, .DataList .Meta, .MessageList .AuthorWrap, .MessageList .Meta {
+		margin-top: 0px !important;
+	}
+}
 .MessageList .ItemComment .Username, .MessageList .ItemDiscussion .Username {
 	font-weight: bold !important;
 	font-size: 1.5rem !important;
