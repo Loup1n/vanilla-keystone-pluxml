@@ -64,6 +64,19 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 .Activities .Item.Activity .Options, .Conversations .Item.Activity .Options, .MessageList .Item.Activity .Options {
 	padding: 0px 10px;
 }
+.ConversationMessage {
+	padding: 0px 10px;
+}
+.ConversationMessage .Meta {
+	margin-top: 5px;
+} 
+.ConversationMessage .Author {
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+.Section-Conversation .Conversation .PhotoWrap, .Section-Conversation .DataList.Conversations .PhotoWrap, .Section-ConversationList .Conversation .PhotoWrap, .Section-ConversationList .DataList.Conversations .PhotoWrap {
+	left: 10px !important;
+}
 .DataList .Item, .MessageList .Item {
 	background-color: #f7f7f7 !important;
 	margin-bottom: 10px;
