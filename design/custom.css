@@ -59,6 +59,12 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 .richEditorFlyout {
 	width: 290px !important;
 }
+.Activities .Item.Activity .Author, .Conversations .Item.Activity .Author, .MessageList .Item.Activity .Author {
+	padding: 0px 10px;
+}
+.Activities .Item.Activity .Meta {
+	padding: 0px 10px;
+}
 .DataList .Item, .MessageList .Item {
 	background-color: #f7f7f7 !important;
 	margin-bottom: 10px;
