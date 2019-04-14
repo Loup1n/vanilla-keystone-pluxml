@@ -27,6 +27,7 @@ a.Header-logo  {
 .Frame {
 	border-bottom: 1px solid #ddd;
 	padding-bottom: 6rem;
+	background-color: #dddddc !important;
 }
 .richEditor [type="button"],
 .richEditor [type="reset"],
@@ -55,6 +56,16 @@ a.Header-logo  {
 .richEditorFlyout {
 	width: 290px !important;
 }
+.DataList .Item, .MessageList .Item {
+	background-color: #f7f7f7 !important;
+	padding: 14px 10px !important;
+}
+.MessageList .ItemComment.ItemComment, .MessageList .ItemDiscussion.ItemDiscussion {
+	margin-bottom: 10px
+}
+.Activities .ItemComment .Options, .Conversations .ItemComment .Options, .MessageList .ItemComment .Options {
+	margin-top: 0px !important;
+}
 .DataList .AuthorWrap, .DataList .Meta, .MessageList .AuthorWrap, .MessageList .Meta {
 	margin-top: 0px;
 }
@@ -68,10 +79,16 @@ a.Header-logo  {
 	font-size: 1.5rem !important;
 }
 .MessageList .ItemComment .Item-Header, .MessageList .ItemDiscussion .Item-Header {
-	background-color: #f8f8f8 !important;
+	background-color: #f7f7f7 !important;
+	border-bottom: 1px solid #ddd;
+	padding: 0px !important;
 }
 .MessageList .ItemComment .Item-Header .PhotoWrap, .MessageList .ItemDiscussion .Item-Header .PhotoWrap {
 	margin-left: 5px !important;
+}
+.MessageList .ItemComment .Item-BodyWrap, .MessageList .ItemDiscussion .Item-BodyWrap {
+    padding: 12px 10px;
+    background-color: #f7f7f7;
 }
 .Options .Bookmark, .Options .SpFlyoutHandle {
 	margin-right: 5px;
