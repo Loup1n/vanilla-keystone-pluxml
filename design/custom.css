@@ -59,10 +59,9 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 .richEditorFlyout {
 	width: 290px !important;
 }
-.Activities .Item.Activity .Author, .Conversations .Item.Activity .Author, .MessageList .Item.Activity .Author {
-	padding: 0px 10px;
-}
-.Activities .Item.Activity .Meta {
+.Activities .Item.Activity .Author, .Conversations .Item.Activity .Author, .MessageList .Item.Activity .Author,
+.Activities .Item.Activity .Meta, .Conversations .Item.Activity .Meta, .MessageList .Item.Activity .Meta,
+.Activities .Item.Activity .Options, .Conversations .Item.Activity .Options, .MessageList .Item.Activity .Options {
 	padding: 0px 10px;
 }
 .DataList .Item, .MessageList .Item {
