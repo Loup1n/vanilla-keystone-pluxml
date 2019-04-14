@@ -68,7 +68,7 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 	padding: 0px 10px;
 }
 .ConversationMessage .Meta {
-	margin-top: 5px;
+	margin-top: 10px;
 } 
 .ConversationMessage .Author {
 	font-weight: bold;
