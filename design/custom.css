@@ -64,6 +64,12 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 .Activities .Item.Activity .Options, .Conversations .Item.Activity .Options, .MessageList .Item.Activity .Options {
 	padding: 0px 10px;
 }
+.Conversations .ItemContent .Users, .Conversations .ItemContent .Excerpt, {
+	padding-left: 66px !important;
+}
+.Conversations .ItemContent .Meta {
+    padding-left: 60px !important;
+}
 .ConversationMessage {
 	padding: 0px 10px;
 }
