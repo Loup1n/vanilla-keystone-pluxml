@@ -84,7 +84,7 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 	left: 10px !important;
 }
 .DataList .MItem.LastCommentDate {
-    display: inline;
+    display: inline !important;
 }
 .DataList .Item.Read .Title {
     font-weight: normal !important;
