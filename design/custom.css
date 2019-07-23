@@ -47,6 +47,21 @@ a.Header-logo  {
 .richEditor input[type="submit"]:hover {
 	background-color: inherit !important;
 }
+.richEditor .richEditor-button_fduk7vd,
+.richEditor .richEditor-insertEmoji {
+	background-color: #efefef;
+}
+.richEditor .paragraphMenuCheckRadio-radio_f45h,
+.richEditor .paragraphMenuCheckRadio-group_fgqequq {
+  background-color: #efefef;
+  font-size: 1.2rem;
+}
+.richEditor .buttonClose.closeButton.frameHeader-action_f1o7c7vv {
+  background-color: #efefef;
+}
+.richEditor .buttonUtils-asTextPrimary_fv0xrdb {
+  padding: 0px 5px !important;
+}
 .H {
 	margin-bottom: 10px !important;
 }
