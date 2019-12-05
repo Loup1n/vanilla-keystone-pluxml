@@ -59,6 +59,9 @@ a.Header-logo  {
 .richEditor .buttonClose.closeButton.frameHeader-action_f1o7c7vv {
   background-color: #efefef;
 }
+#paragraphMenu3-formattingMenusparagraphMenu3-formattingMenus-dropDown-button, .richEditor-button_fxoy70g {
+  background: #efefef;
+}
 .richEditor .buttonUtils-asTextPrimary_fv0xrdb {
   padding: 0px 5px !important;
 }
@@ -166,4 +169,17 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 }
 .footer ul {
 	margin: 12px 0px;
+}
+/* SearchPlus Plugin */
+.SearchPlusForm {
+  background: #efefef !important;
+  padding: 10px;
+}
+.SearchPlusCategory select, .SearchPlusRecordType select, .SearchPlusForm input#token-input-Form_User {
+  width: 100% !important;
+}
+.SearchPlusForm #Form_NarrowSearch {
+  margin-top: 0 !important;
+  font-size: inherit !important;
+  padding: 0px 12px !important;
 }
