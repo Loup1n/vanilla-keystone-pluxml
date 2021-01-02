@@ -244,20 +244,6 @@
 				background: #fff;
 }
 
-/* SearchPlus Plugin */
-.SearchPlusForm {
-				background: #efefef !important;
-				padding: 10px;
-}
-.SearchPlusCategory select, .SearchPlusRecordType select, .SearchPlusForm input#token-input-Form_User {
-				width: 100% !important;
-}
-.SearchPlusForm #Form_NarrowSearch {
-				margin-top: 0 !important;
-				font-size: inherit !important;
-				padding: 0px 12px !important;
-}
-
 .userContent p img.emoji, .UserContent p img.emoji {
 				display: inline;
 }

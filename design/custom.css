@@ -146,29 +146,32 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 	margin-left: 5px !important;
 }
 .MessageList .ItemComment .Item-BodyWrap, .MessageList .ItemDiscussion .Item-BodyWrap {
-    padding: 12px 10px;
-    background-color: #f7f7f7;
+	padding: 12px 10px;
+	background-color: #f7f7f7;
+}
+.userContent p img.emoji, .UserContent p img.emoji {
+	display: inline;
 }
 .Options .Bookmark, .Options .SpFlyoutHandle {
 	margin-right: 5px;
 }
 .footer {
-    background: #f7f7f7;
-    color: #666;
-    padding: 6rem 0;
-    text-align: center;
-    font-size: 1.2rem;
+	background: #f7f7f7;
+  color: #666;
+  padding: 6rem 0;
+  text-align: center;
+  font-size: 1.2rem;
 }
 .userContent pre, .UserContent pre, .userContent pre.codeBlock, .UserContent pre.codeBlock {
 	background-color: #fdfdfd  !important;
 	border: 1px solid #e8e8e8  !important;
 }
 .footer section {
-    padding: 2rem 0rem;
+  padding: 2rem 0rem;
 }
 .footer a, .footer li.active a {
-    color: #666;
-    font-size: inherit;
+  color: #666;
+  font-size: inherit;
 }
 .footer ul {
 	margin: 12px 0px;
@@ -176,14 +179,14 @@ button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type=
 
 /* SearchPlus Plugin */
 .SearchPlusForm {
-				background: #efefef !important;
-				padding: 10px;
+	background: #efefef !important;
+	padding: 10px;
 }
 .SearchPlusCategory select, .SearchPlusRecordType select, .SearchPlusForm input#token-input-Form_User {
-				width: 100% !important;
+	width: 100% !important;
 }
 .SearchPlusForm #Form_NarrowSearch {
-				margin-top: 0 !important;
-				font-size: inherit !important;
-				padding: 0px 12px !important;
+	margin-top: 0 !important;
+	font-size: inherit !important;
+	padding: 0px 12px !important;
 }
