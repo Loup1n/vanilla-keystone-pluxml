@@ -5,23 +5,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
-    <link rel="apple-touch-icon" sizes="57x57" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-152x152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="/themes/vanilla-keystone-pluxml/img/favicon/apple-icon-180x180.png">
-	<link rel="icon" type="image/png" sizes="192x192"  href="/themes/vanilla-keystone-pluxml/img/favicon/android-icon-192x192.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/themes/vanilla-keystone-pluxml/img/favicon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="/themes/vanilla-keystone-pluxml/img/favicon/favicon-96x96.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/themes/vanilla-keystone-pluxml/img/favicon/favicon-16x16.png">
-	<link rel="manifest" href="/themes/vanilla-keystone-pluxml/img/favicon/manifest.json">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="/themes/vanilla-keystone-pluxml/img/favicon/ms-icon-144x144.png">
-	<meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://medias.pluxml.org/favicon/yellow/apple-icon-57x57.png">
+	  <link rel="apple-touch-icon" sizes="60x60" href="https://medias.pluxml.org/favicon/yellow/apple-icon-60x60.png">
+  	<link rel="apple-touch-icon" sizes="72x72" href="https://medias.pluxml.org/favicon/yellow/apple-icon-72x72.png">
+  	<link rel="apple-touch-icon" sizes="76x76" href="https://medias.pluxml.org/favicon/yellow/apple-icon-76x76.png">
+  	<link rel="apple-touch-icon" sizes="114x114" href="https://medias.pluxml.org/favicon/yellow/apple-icon-114x114.png">
+  	<link rel="apple-touch-icon" sizes="120x120" href="https://medias.pluxml.org/favicon/yellow/apple-icon-120x120.png">
+  	<link rel="apple-touch-icon" sizes="144x144" href="https://medias.pluxml.org/favicon/yellow/apple-icon-144x144.png">
+  	<link rel="apple-touch-icon" sizes="152x152" href="https://medias.pluxml.org/favicon/yellow/favicon/apple-icon-152x152.png">
+  	<link rel="apple-touch-icon" sizes="180x180" href="https://medias.pluxml.org/favicon/yellow/favicon/apple-icon-180x180.png">
+  	<link rel="icon" type="image/png" sizes="192x192"  href="https://medias.pluxml.org/favicon/yellow/android-icon-192x192.png">
+  	<link rel="icon" type="image/png" sizes="32x32" href="https://medias.pluxml.org/favicon/yellow/favicon-32x32.png">
+  	<link rel="icon" type="image/png" sizes="96x96" href="https://medias.pluxml.org/favicon/yellow/favicon-96x96.png">
+  	<link rel="icon" type="image/png" sizes="16x16" href="https://medias.pluxml.org/favicon/yellow/favicon-16x16.png">
+  	<link rel="manifest" href="https://medias.pluxml.org/favicon/yellow/manifest.json">
+  	<meta name="msapplication-TileColor" content="#ffffff">
+  	<meta name="msapplication-TileImage" content="https://medias.pluxml.org/favicon/yellow/ms-icon-144x144.png">
+  	<meta name="theme-color" content="#ffffff">
 	
     {asset name="Head"}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -77,31 +77,7 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-      <nav class="plx-nav">
-        <div class="container">
-          <div class="grid">
-            <div class="col sml-12 med-3">
-              <ul class="menu text-center">
-                <li class="logo"><a href="https://www.pluxml.org" title="PluXml"><img class="float-left" src="/themes/vanilla-keystone-pluxml/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
-              </ul>
-            </div>
-            <div class="col sml-12 med-9 lrg-6">
-              <ul class="menu text-center">
-                <li><a href="https://wiki.pluxml.org" title="Documentation">Documentation</a></li>
-                <li><a href="https://ressources.pluxml.org" title="Ressources">Ressources</a></li>
-                <li><a href="https://forum.pluxml.org" title="Forum">Forum</a></li>
-                <li><a href="https://www.pluxml.org/blog" title="Blog">Blog</a></li>
-              </ul>
-            </div>
-            <div class="col sml-hide med-hide lrg-3 lrg-show">
-              <ul class="menu text-right">
-                <li><a href="http://plucss.pluxml.org/" title="PluCSS">PluCSS</a></li>
-                <li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visual Wizard</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </nav>
+    <div id="plxnav" data-title="Forum" data-logo="yellow" data-link="forum"></div>
 
     <div class="Frame">
         <div class="Frame-top">
@@ -344,6 +320,8 @@
 				</ul>
 			</section>
 		</div>
+
+  <script src="https://medias.pluxml.org/navigation/nav.js"></script>
 
 	</footer>
 
