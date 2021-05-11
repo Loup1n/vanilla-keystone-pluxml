@@ -77,7 +77,7 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div id="plxnav" data-title="Forum" data-logo="yellow" data-link="forum"></div>
+    <div id="plxnav" data-title="Forum" data-logo="yellow" data-link="forum" style="height: 43px; background-color: #333; border-bottom: 2px solid #cdcdcd;"></div>
 
     <div class="Frame">
         <div class="Frame-top">
